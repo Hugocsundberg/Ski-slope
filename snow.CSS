@@ -1,0 +1,28 @@
+* {
+    height: 100px;
+}
+
+body, html {
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+.ground {
+    position: absolute;
+    background-image: url(./media/snow.jpg);
+    height: 100vh; 
+    width: 100vw;
+    background-size: 152px;
+    background-repeat: repeat;
+}
+
+/*CHARACTER*/
+
+
+
+
+
+
+
+
